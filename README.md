@@ -1,2 +1,2 @@
 # tflow_projects
-TensorFlow (TF) projects from the Intro to TF Coursera MOOC 
+A collection of TensorFlow (TF) projects documenting my initial foray into using the package. 
